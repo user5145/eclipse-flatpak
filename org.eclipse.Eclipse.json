@@ -1,7 +1,7 @@
 {
 	"app-id": "org.eclipse.Eclipse",
 	"runtime": "org.gnome.Sdk",
-	"runtime-version": "3.26",
+	"runtime-version": "3.28",
 	"branch": "4.8",
 	"sdk": "org.gnome.Sdk",
 	"command": "eclipse",
