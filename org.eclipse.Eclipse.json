@@ -10,7 +10,7 @@
 		"--share=ipc",
 		"--share=network",
 		"--device=all",
-		"--filesystem=~/workspace;~/.m2;~/.eclipse;/etc/hosts:ro;",
+		"--filesystem=home",
 		"--env=JAVA_HOME=/app/extension/jvm/openjdk-10",
 		"--env=PATH=/app/bin:/usr/bin:/app/extension/jvm/openjdk-10/bin"
 	],
