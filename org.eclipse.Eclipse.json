@@ -11,6 +11,7 @@
 		"--share=network",
 		"--device=all",
 		"--filesystem=home",
+		"--filesystem=/run/media",
 		"--env=JAVA_HOME=/app/extension/jvm/openjdk-10",
 		"--env=PATH=/app/bin:/usr/bin:/app/extension/jvm/openjdk-10/bin"
 	],
