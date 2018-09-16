@@ -9,7 +9,7 @@ install:
 	cp org.eclipse.Eclipse.appdata.xml /app/share/appdata
 	mkdir -p /app/share/applications
 	cp org.eclipse.Eclipse.desktop /app/share/applications
-	mkdir -p /app/share/icons/hicolor/48x48/apps
-	cp org.eclipse.Eclipse.png /app/share/icons/hicolor/48x48/apps
+	mkdir -p /app/share/icons/hicolor/256x256/apps
+	cp org.eclipse.Eclipse.png /app/share/icons/hicolor/256x256/apps
 
 .PHONY: install
