@@ -2,7 +2,7 @@
 	"app-id": "org.eclipse.Eclipse",
 	"runtime": "org.gnome.Sdk",
 	"runtime-version": "3.26",
-	"branch": "4.6",
+	"branch": "4.8",
 	"sdk": "org.gnome.Sdk",
 	"command": "eclipse",
 	"finish-args": [
@@ -45,8 +45,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "http://www.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/technology/epp/downloads/release/neon/1a/eclipse-java-neon-1a-linux-gtk-x86_64.tar.gz",
-					"sha256": "cd22d953dee2db30d86c51a50189dd062c8ac68c5776cbe525a7f852986f23b5",
+					"url": "http://download.springsource.com/release/ECLIPSE/photon/R/eclipse-jee-photon-R-linux-gtk-x86_64.tar.gz",
+					"sha256": "3bd00147fe545d1263dd10cdba9850d1fbeaed463582162bb15ddd0d6cfbd3ee",
 					"dest": "eclipse"
 				},
 				{
