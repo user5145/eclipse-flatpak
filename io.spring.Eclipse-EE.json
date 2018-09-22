@@ -2,7 +2,7 @@
   "app-id": "io.spring.Eclipse-EE",
   "runtime": "org.gnome.Platform",
   "runtime-version": "3.28",
-  "branch": "4.8",
+  "branch": "2018-09",
   "sdk": "org.gnome.Sdk",
   "command": "start",
 
@@ -15,7 +15,7 @@
     "--filesystem=/run/media",
     "--env=JAVA_HOME=/app/extension/jvm/openjdk-10",
     "--env=PATH=/app/bin:/usr/bin:/app/extension/jvm/openjdk-10/bin",
-    "--extra-data=eclipse.tar.gz:3bd00147fe545d1263dd10cdba9850d1fbeaed463582162bb15ddd0d6cfbd3ee:357776781:357776781:http://download.springsource.com/release/ECLIPSE/photon/R/eclipse-jee-photon-R-linux-gtk-x86_64.tar.gz"
+    "--extra-data=eclipse.tar.gz:9d1375f45fb9a37f471db71da07ef67d45c6e36bdd1c6fea9652a19ab388ed0c:350587594:350587594:http://download.springsource.com/release/ECLIPSE/2018-09/eclipse-jee-2018-09-linux-gtk-x86_64.tar.gz"
   ],
 
   "add-extensions": {
