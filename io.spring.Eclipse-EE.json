@@ -7,6 +7,7 @@
   "command": "start",
 
   "finish-args": [
+    "--socket=system-bus",
     "--socket=x11",
     "--share=ipc",
     "--share=network",
